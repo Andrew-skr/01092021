@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e9b1a242-66fc-4410-a3dd-38e41c712cd0" name="sandbox">
+        <fileTransfer accessType="SFTP" sshConfigId="1be78639-d979-4645-bdf3-6dbde7d81236" sshConfig="vagrant@192.168.10.10:22 key">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
